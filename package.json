@@ -1,0 +1,20 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon Index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "hellocoder",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
